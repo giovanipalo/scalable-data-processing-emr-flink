@@ -34,7 +34,7 @@ O projeto é baseado na seguinte arquitetura:
 - Conta na AWS com permissões para criação de recursos como EMR, EC2, VPC, IAM, etc.
 - Instalação local do Terraform para gerenciar o provisionamento da infraestrutura.
 
-## Como Usar
+## Execução do Projeto
 
 Para utilizar este projeto:
 
